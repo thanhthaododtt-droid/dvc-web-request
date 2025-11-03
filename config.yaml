@@ -1,0 +1,6 @@
+api_url: "https://abcd1234.ngrok.io/create_dvc"  # thay bằng URL ngrok của bạn
+api_key: "CHANGE_ME_TO_A_STRONG_KEY"              # giữ giống key trong Agent
+nghiep_vu:
+  - "Chuyển nhượng tên miền"
+  - "Đổi tên chủ thể"
+  - "Gia hạn tên miền"
